@@ -1,4 +1,4 @@
-# Classificaion-Deployment-Heroku
+# Classification-Deployment-Heroku
 
 # Steps we are following to deploy our app on Heroku
     Step1: our main file name should be app.py
